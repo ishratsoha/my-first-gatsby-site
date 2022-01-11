@@ -8,6 +8,7 @@ module.exports = {
     "gatsby-react-router-scroll",
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
     {
       resolve: "gatsby-source-filesystem",
       options: {
